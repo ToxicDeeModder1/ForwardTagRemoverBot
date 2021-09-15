@@ -3,7 +3,7 @@
  "repository": "https://github.com/ToxicDeeModder1/ForwardTagRemoverBot",
  "logo": "https://telegra.ph/file/faacd4dd5b446769381f4.jpg",
  "keywords": [ "bot","Artis7eeR", "telegram", "Rasak","TeamCyphers" ],
- "success_url": "https://telegram.dog/Toxic_ForwardRemoverBot",
+ "success_url": "https://t.me/Toxic_ForwardRemoverBot",
  "env": {
  "BOT_TOKEN": 
 {"description":"Get This Value from https://telegram.dog/BotFather",
