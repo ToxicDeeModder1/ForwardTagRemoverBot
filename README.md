@@ -23,14 +23,14 @@ qzl5kjhxrw73rcvr6ska3wzksu2vqsa20s4nt0ty8m
 
 <br/>
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Artis7eeR/)
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/ToxicDeeModder1/)
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
-[![Open Source Love svg3](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Artis7eeR/ForwardTagRemoverBot)
+[![Open Source Love svg3](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ToxicDeeModder1/ForwardTagRemoverBot)
 
-[![GitHub forks](https://img.shields.io/github/forks/Artis7eeR/ForwardTagRemoverBot.svg?style=social&label=Fork)](https://GitHub.com/ToxicDeeModder1/ForwardTagRemoverBot/network/)
+[![GitHub forks](https://img.shields.io/github/forks/ToxicDeeModder1/ForwardTagRemoverBot.svg?style=social&label=Fork)](https://GitHub.com/ToxicDeeModder1/ForwardTagRemoverBot/network/)
 [![GitHub stars](https://img.shields.io/github/stars/Artis7eeR/ForwardTagRemoverBot.svg?style=social&label=Star)](https://github.com/ToxicDeeModder1/ForwardTagRemoverBot/)
 
 
@@ -85,11 +85,11 @@ qzl5kjhxrw73rcvr6ska3wzksu2vqsa20s4nt0ty8m
 ## Bugs 🐞🐞
 
 [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://telegram.dog/TeamCyphers)
-[![GitHub issues](https://img.shields/issues/Artis7eeR/ForwardTagRemoverBot.svg)](https://github.com/Artis7eeR/ForwardTagRemoverBot/issues/)
+[![GitHub issues](https://img.shields/issues/ToxicDeeModder1/ForwardTagRemoverBot.svg)](https://github.com/ToxicDeeModder1/ForwardTagRemoverBot/issues/)
 
 ### Contributions are Invited 🙂
 
-**©[Artis7eeR](https://github.com/Artis7eeR)**
+**©[Artis7eeR](https://github.com/ToxicDeeModder1)**
 
 
 
