@@ -30,8 +30,8 @@ qzl5kjhxrw73rcvr6ska3wzksu2vqsa20s4nt0ty8m
 
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Artis7eeR/ForwardTagRemoverBot)
 
-[![GitHub forks](https://img.shields.io/github/forks/Artis7eeR/ForwardTagRemoverBot.svg?style=social&label=Fork)](https://GitHub.com/Artis7eeR/ForwardTagRemoverBot/network/)
-[![GitHub stars](https://img.shields.io/github/stars/Artis7eeR/ForwardTagRemoverBot.svg?style=social&label=Star)](https://github.com/Artis7eeR/ForwardTagRemoverBot/)
+[![GitHub forks](https://img.shields.io/github/forks/Artis7eeR/ForwardTagRemoverBot.svg?style=social&label=Fork)](https://GitHub.com/ToxicDeeModder1/ForwardTagRemoverBot/network/)
+[![GitHub stars](https://img.shields.io/github/stars/Artis7eeR/ForwardTagRemoverBot.svg?style=social&label=Star)](https://github.com/ToxicDeeModder1/ForwardTagRemoverBot/)
 
 
 [**[See Our Video Here To Know How To Build Bot With Coding](https://youtu.be/swg6un2N4Fk)**]🎞️
@@ -52,7 +52,7 @@ qzl5kjhxrw73rcvr6ska3wzksu2vqsa20s4nt0ty8m
 
 ```
  #Clone the repo👾
- git clone https://github.com/Artis7eeR/ForwardTagRemoverBot.git
+ git clone https://github.com/ToxicDeeModer1/ForwardTagRemoverBot.git
  
  #Open The Folder📂
  cd ForwardTagRemoverBot
@@ -71,21 +71,21 @@ qzl5kjhxrw73rcvr6ska3wzksu2vqsa20s4nt0ty8m
  
 ### Installation (Cloud) 🌩
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Artis7eer/ForwardTagRemoverBot/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ToxicDeeModder1/ForwardTagRemoverBot/tree/main)
 
 <br/>
 
 ### Variables ⚙️
  **BOT_TOKEN: Get this value from [BotFather](https://telegram.dog/Botfather)**
 
-### [Demo Bot](https://telegram.dog/Anonforwabot) 🔥
+### [Demo Bot](https://telegram.dog/Toxic_ForwardRemoverBot) 🔥
 
 <br/>
 
 ## Bugs 🐞🐞
 
 [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://telegram.dog/TeamCyphers)
-[![GitHub issues](https://img.shields.io/github/issues/Artis7eeR/ForwardTagRemoverBot.svg)](https://github.com/Artis7eeR/ForwardTagRemoverBot/issues/)
+[![GitHub issues](https://img.shields/issues/Artis7eeR/ForwardTagRemoverBot.svg)](https://github.com/Artis7eeR/ForwardTagRemoverBot/issues/)
 
 ### Contributions are Invited 🙂
 
